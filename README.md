@@ -6,5 +6,7 @@ git clone https://github.com/yonesananzeh/mem.git
 Do this every time before you start coding
 
 python -m venv env
+
 source env/bin/activate  # macOS/Linux
+
 env\Scripts\activate  # Windows
